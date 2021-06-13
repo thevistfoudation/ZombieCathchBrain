@@ -1,0 +1,41 @@
+
+Bot lv3.png
+size: 208,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back arm
+  rotate: false
+  xy: 144, 202
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+front arm
+  rotate: true
+  xy: 2, 2
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 160, 56
+  size: 144, 42
+  orig: 144, 42
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 84, 16
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 2, 81
+  size: 140, 195
+  orig: 140, 195
+  offset: 0, 0
+  index: -1

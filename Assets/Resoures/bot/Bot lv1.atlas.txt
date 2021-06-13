@@ -1,0 +1,111 @@
+
+Bot lv1.png
+size: 600,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back arm 1
+  rotate: false
+  xy: 480, 72
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+back arm 2
+  rotate: true
+  xy: 538, 94
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+back foot
+  rotate: true
+  xy: 537, 3
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+back hand
+  rotate: false
+  xy: 402, 70
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+back leg 1
+  rotate: true
+  xy: 538, 42
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+back leg 2
+  rotate: false
+  xy: 310, 5
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+front arm 1
+  rotate: false
+  xy: 249, 53
+  size: 88, 93
+  orig: 88, 93
+  offset: 0, 0
+  index: -1
+front arm 2
+  rotate: false
+  xy: 339, 58
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+front foot
+  rotate: false
+  xy: 560, 20
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+front hand
+  rotate: false
+  xy: 355, 4
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+front leg 1
+  rotate: true
+  xy: 249, 4
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+front leg 2
+  rotate: false
+  xy: 490, 2
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 4
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+torso1
+  rotate: false
+  xy: 126, 4
+  size: 121, 142
+  orig: 121, 142
+  offset: 0, 0
+  index: -1
+torso2
+  rotate: false
+  xy: 419, 4
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
